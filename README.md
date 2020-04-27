@@ -1,0 +1,2 @@
+# bitExtension_superBasic_code_algo
+A problem is encountered when we are limited to some specific bit of processor which can't further operate more bits number than that. So, I am designing somehow to extend or multiply available bit of processor by simulating single register as a place for 0.5x of same binary digit. Here I simulated same in python. If some similar or modified algo applied in assembly language we can extend 32 bit system to 64 bit or more, But this is just a basics and I need more and more contributions to modify it.
